@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DataBinding</string>
+    <string name="message">Message</string>
+    <string name="reply">Reply</string>
+    <string name="send">Send</string>
+    <string name="done">Done</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="update">Update</string>
+</resources>
